@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BioLingua Daily</title>
+<style>
+:root{--ink:#43363d;--muted:#8d7b84;--pink:#ef779d;--deep:#c94f78;--soft:#fff1f6;--line:#f3cedb;--shadow:0 12px 35px rgba(174,74,111,.10)}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(#fff8fb,#fffdfd);font-family:Georgia,"Noto Serif SC","Times New Roman",serif;color:var(--ink)}
+a{color:#c94c79;text-decoration:none}a:hover{text-decoration:underline}
+header{position:sticky;top:0;z-index:20;background:rgba(255,249,251,.95);backdrop-filter:blur(14px);border-bottom:1px solid #f2d7e0}
+.top,.bar,.wrap{max-width:1180px;margin:auto}.top{padding:18px 24px 12px;display:flex;justify-content:space-between;gap:18px;align-items:center}
+h1{margin:0;color:#c74d75}.sub{color:#9d7f8a;font-size:13px}.tabs{display:flex;gap:8px;flex-wrap:wrap}.tab{border:0;background:transparent;padding:9px 14px;border-radius:999px}.tab.active{background:#f5a3bd;color:white}
+.bar{padding:10px 24px 16px;display:flex;gap:10px;flex-wrap:wrap;border-top:1px solid #f7e3ea}select,button{font:inherit;border:1px solid #ead0da;background:#fff;border-radius:10px;padding:9px 11px;color:#66545b}.wrap{padding:32px 24px 70px}
+.card{background:#fff;border:1px solid #f3d4df;border-radius:20px;padding:24px 28px;margin:16px 0;box-shadow:var(--shadow)}.rank{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:50%;background:#f5a3bd;color:#fff;font-weight:bold;margin-right:8px}
+h2{color:var(--deep);margin:0 0 6px}.lead{color:#85767c;line-height:1.8;border-bottom:2px solid #ffd6e3;padding:10px 0 18px}.meta{display:flex;gap:10px;flex-wrap:wrap;color:#947f88;font-size:14px}.source{background:#fff0f5;padding:5px 9px;border-radius:999px}
+.summary{background:#fffafb;border-left:4px solid #ffb5cd;padding:14px 16px;margin:16px 0;line-height:1.8}
+.vocab-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:9px}.vocab{background:#fff5f8;border-radius:12px;padding:12px}.vocab b{font-size:17px}.tiny{font-size:12px;color:#9b858e;line-height:1.5}
+.actions{display:flex;gap:7px;flex-wrap:wrap;margin-top:8px}.saved{background:#ffe2ec}.hidden{display:none}.pill{display:inline-block;background:#ffe1ea;color:#c95e82;padding:7px 12px;border-radius:999px}.status{background:#fff2f6;color:#ad5975;border-radius:10px;padding:9px 11px}
+.ted iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:16px;background:#111}.quiz-q{background:#fff7fa;padding:15px;border-radius:13px;margin:10px 0}.choice{display:block;width:100%;text-align:left;margin:6px 0}.correct{background:#eef8f3;border-color:#8ab59f}.wrong{background:#fff0f4;border-color:#df91a8}
+.stats{display:flex;gap:12px;flex-wrap:wrap;margin:15px 0}.stat{background:#fff;border:1px solid var(--line);padding:12px 15px;border-radius:13px}.stat b{font-size:22px;color:var(--deep)}
+@media(max-width:700px){.top{align-items:flex-start;flex-direction:column}.card{padding:20px 16px}.wrap,.top,.bar{padding-left:16px;padding-right:16px}}
+</style>
+</head>
+<body>
+<header>
+<div class="top">
+ <div><h1>BioLingua Daily</h1><div class="sub">医药英语 · TED · 每日回溯 · 免费静态版</div></div>
+ <div class="tabs">
+  <button class="tab active" data-view="news">① 行业精读</button>
+  <button class="tab" data-view="ted">② TED</button>
+  <button class="tab" data-view="quiz">③ 今日测验</button>
+  <button class="tab" data-view="review">④ 单词本</button>
+ </div>
+</div>
+<div class="bar">
+ <label>日期 <select id="dateSelect"></select></label>
+ <label>发音 <select id="voice"><option value="en-US">美音</option><option value="en-GB">英音</option></select></label>
+ <span id="status" class="status">载入中…</span>
+</div>
+</header>
+
+<main class="wrap">
+<section id="newsView">
+ <h2 id="dateTitle">—</h2><span class="pill">Reuters · STAT · Fierce Biotech · Endpoints · Nature Medicine</span>
+ <div class="lead">每天保留一份日期快照。部署到 GitHub Pages 后，GitHub Actions 会自动生成新的日期文件；双击本地打开时则使用已经下载下来的历史文件。</div>
+ <div id="cards"></div>
+</section>
+
+<section id="tedView" class="hidden">
+ <h2>TED 每日听力</h2><div class="lead">按日期稳定轮换，同一天始终显示同一场。</div><div id="tedBox"></div>
+</section>
+
+<section id="quizView" class="hidden">
+ <h2>今日测验</h2><div class="lead">题目来自当天新闻词汇。</div><div id="quizBox"></div>
+</section>
+
+<section id="reviewView" class="hidden">
+ <h2>单词本 · 间隔复习</h2><div class="stats" id="stats"></div><div id="reviewBox"></div>
+</section>
+</main>
+
+<script>
+const $=s=>document.querySelector(s), STORE="biolingua_static_vocab_v1";
+let state={date:null,data:null,view:"news"};
+const TED=[
+ {speaker:"Jennifer Doudna",title:"How CRISPR lets us edit our DNA",slug:"jennifer_doudna_how_crispr_lets_us_edit_our_dna",why:"基因编辑与生物技术高频词汇集中。"},
+ {speaker:"Bill Gates",title:"The next outbreak? We're not ready",slug:"bill_gates_the_next_outbreak_we_re_not_ready",why:"公共卫生、疫情、疫苗与 preparedness。"},
+ {speaker:"Siddhartha Mukherjee",title:"Soon we'll cure diseases with a cell, not a pill",slug:"siddhartha_mukherjee_soon_we_ll_cure_diseases_with_a_cell_not_a_pill",why:"细胞治疗与未来医学表达。"},
+ {speaker:"Atul Gawande",title:"How do we heal medicine?",slug:"atul_gawande_how_do_we_heal_medicine",why:"医疗体系、协作与质量。"},
+ {speaker:"Hans Rosling",title:"The best stats you've ever seen",slug:"hans_rosling_the_best_stats_you_ve_ever_seen",why:"数据表达与全球健康。"}
+];
+function esc(s=""){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]))}
+function store(){try{return JSON.parse(localStorage.getItem(STORE)||"{}")}catch{return {}}}
+function saveStore(x){localStorage.setItem(STORE,JSON.stringify(x))}
+function today(){return new Date().toISOString().slice(0,10)}
+function speak(t){speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang=$("#voice").value;u.rate=.92;speechSynthesis.speak(u)} window.speak=speak;
+async function loadJSON(path){const r=await fetch(path,{cache:"no-store"});if(!r.ok)throw new Error(path);return r.json()}
+async function init(){
+ let manifest;
+ try{manifest=await loadJSON("data/manifest.json")}catch(e){manifest={dates:["2026-09-20"]}}
+ $("#dateSelect").innerHTML=manifest.dates.slice().reverse().map(d=>`<option value="${d}">${d}</option>`).join("");
+ await load($("#dateSelect").value||manifest.dates.at(-1));
+}
+async function load(date){
+ state.date=date;$("#status").textContent="载入中…";
+ try{state.data=await loadJSON(`data/${date}.json`)}catch(e){
+  $("#status").textContent="本地模式只能读取已下载历史；在线部署后会每天自动增加";
+  state.data={date,items:[]}
+ }
+ renderNews();renderTed();renderQuiz();$("#status").textContent=state.data.items?.length?"已载入历史快照":"该日期暂无快照";
+}
+function renderNews(){
+ $("#dateTitle").textContent=state.date;
+ const s=store(),items=state.data.items||[];
+ $("#cards").innerHTML=items.map((x,i)=>`<article class="card"><h3><span class="rank">${i+1}</span>${esc(x.title)}</h3>
+  <div class="meta"><span class="source">${esc(x.source)}</span><a href="${x.url}" target="_blank">阅读原文 ↗</a><button onclick='speak(${JSON.stringify(x.title)})'>▶ 美音朗读</button></div>
+  <div class="summary"><b>中文精读摘要</b><br>${esc(x.zh_summary||"")}</div>
+  <div class="vocab-grid">${(x.vocab||[]).map(v=>{const k=v.word.toLowerCase(),sv=!!s[k],j=encodeURIComponent(JSON.stringify(v));return `<div class="vocab"><b>${esc(v.word)}</b> · ${esc(v.zh)}<div class="tiny">${esc(v.note||"")}</div><div class="actions"><button onclick='speak(${JSON.stringify(v.word)})'>▶ 发音</button><button class="${sv?"saved":""}" onclick="toggleSave('${j}','${esc(x.source)}',this)">${sv?"★ 已收藏":"☆ 收藏"}</button></div></div>`}).join("")}</div>
+ </article>`).join("")||'<div class="card">这个日期没有已保存内容。</div>';
+}
+window.toggleSave=(j,source,btn)=>{
+ const v=JSON.parse(decodeURIComponent(j)),s=store(),k=v.word.toLowerCase();
+ if(s[k])delete s[k];else s[k]={...v,source,due:today(),interval:0,reps:0};
+ saveStore(s);renderNews();renderReview()
+}
+function tedIndex(date){let n=0;for(const c of date)n=(n*31+c.charCodeAt(0))>>>0;return n%TED.length}
+function renderTed(){
+ const t=TED[tedIndex(state.date)],url=`https://www.ted.com/talks/${t.slug}`;
+ $("#tedBox").innerHTML=`<div class="card ted"><iframe src="https://embed.ted.com/talks/${t.slug}" allowfullscreen></iframe><h3>${esc(t.title)}</h3><p>${esc(t.speaker)}</p><div class="summary">${esc(t.why)}</div><p><a href="${url}" target="_blank">TED 官方页面 ↗</a> · <a href="${url}?view=transcript" target="_blank">英文 Transcript ↗</a></p></div>`
+}
+function vocabToday(){const a=[];(state.data.items||[]).forEach(x=>(x.vocab||[]).forEach(v=>{if(!a.some(y=>y.word===v.word))a.push(v)}));return a}
+function renderQuiz(){
+ const v=vocabToday();if(!v.length){$("#quizBox").innerHTML='<div class="card">当天没有词汇数据。</div>';return}
+ const zh=v.map(x=>x.zh);
+ $("#quizBox").innerHTML='<div class="card">'+v.slice(0,8).map((x,i)=>{
+  const opts=[x.zh,...zh.filter(z=>z!==x.zh).slice(0,3)].sort(()=>Math.random()-.5);
+  return `<div class="quiz-q" data-answer="${esc(x.zh)}"><p><b>${i+1}. ${esc(x.word)}</b> 是什么意思？</p>${opts.map(o=>`<button class="choice" onclick="answer(this,decodeURIComponent('${encodeURIComponent(o)}'))">${esc(o)}</button>`).join("")}</div>`
+ }).join("")+'</div>'
+}
+window.answer=(b,val)=>{const q=b.closest(".quiz-q");if(q.dataset.done)return;q.dataset.done="1";q.querySelectorAll(".choice").forEach(x=>{if(x.textContent===q.dataset.answer)x.classList.add("correct")});if(val!==q.dataset.answer)b.classList.add("wrong")}
+function reviewWord(k,q){
+ const s=store(),x=s[k];if(!x)return;
+ if(q<3){x.interval=1;x.reps=0}else{x.reps=(x.reps||0)+1;x.interval=x.reps===1?1:x.reps===2?3:Math.max(5,Math.round((x.interval||3)*2))}
+ const d=new Date();d.setDate(d.getDate()+x.interval);x.due=d.toISOString().slice(0,10);s[k]=x;saveStore(s);renderReview()
+} window.reviewWord=reviewWord;
+function renderReview(){
+ const s=store(),items=Object.entries(s).map(([k,v])=>({k,...v})),due=items.filter(x=>(x.due||today())<=today());
+ $("#stats").innerHTML=`<div class="stat"><b>${items.length}</b><br>已收藏</div><div class="stat"><b>${due.length}</b><br>今日待复习</div>`;
+ $("#reviewBox").innerHTML=items.map(x=>`<div class="card"><h3>${esc(x.word)}</h3><p>${esc(x.zh)}</p><p class="tiny">下次复习：${esc(x.due||today())}</p><div class="actions"><button onclick='speak(${JSON.stringify(x.word)})'>▶ 发音</button><button onclick="reviewWord('${esc(x.k)}',2)">忘了</button><button onclick="reviewWord('${esc(x.k)}',4)">记得</button><button onclick="reviewWord('${esc(x.k)}',5)">很熟</button></div></div>`).join("")||'<div class="card">还没有收藏单词。</div>'
+}
+function switchView(v){state.view=v;["news","ted","quiz","review"].forEach(x=>$("#"+x+"View").classList.toggle("hidden",x!==v));document.querySelectorAll(".tab").forEach(b=>b.classList.toggle("active",b.dataset.view===v))}
+document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>switchView(b.dataset.view));$("#dateSelect").onchange=e=>load(e.target.value);init().then(renderReview);
+</script>
+</body></html>

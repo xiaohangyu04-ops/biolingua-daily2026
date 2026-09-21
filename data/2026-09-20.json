@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-20",
+  "items": [
+    {
+      "source": "Reuters",
+      "title": "Health research funding and pharma policy stay in focus",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/",
+      "zh_summary": "关注医药研发资金与政策环境。阅读时先判断事件属于政策、研发还是商业，再用英文回答 What happened? Why does it matter?",
+      "vocab": [
+        {
+          "word": "research funding",
+          "zh": "研究经费",
+          "note": "research / grant funding"
+        },
+        {
+          "word": "pharma policy",
+          "zh": "医药政策",
+          "note": "policy environment"
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review"
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "drug pipeline"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout"
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "title": "Biotech companies watch regulators, trial data and dealmaking",
+      "url": "https://www.statnews.com/",
+      "zh_summary": "这类标题把监管、临床数据和交易并列呈现，适合训练行业新闻的压缩表达。",
+      "vocab": [
+        {
+          "word": "regulator",
+          "zh": "监管机构",
+          "note": "FDA is a regulator"
+        },
+        {
+          "word": "trial data",
+          "zh": "临床试验数据",
+          "note": "clinical data"
+        },
+        {
+          "word": "dealmaking",
+          "zh": "交易活动",
+          "note": "BD / M&A context"
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety"
+        },
+        {
+          "word": "endpoint",
+          "zh": "试验终点",
+          "note": "primary endpoint"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Clinical-stage biotech pushes program toward its next readout",
+      "url": "https://www.fiercebiotech.com/",
+      "zh_summary": "核心是临床阶段项目与下一次数据读出。",
+      "vocab": [
+        {
+          "word": "clinical-stage",
+          "zh": "临床阶段的",
+          "note": "clinical-stage biotech"
+        },
+        {
+          "word": "program",
+          "zh": "研发项目",
+          "note": "drug program"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "phase 2",
+          "zh": "二期临床",
+          "note": "phase 2 trial"
+        },
+        {
+          "word": "candidate",
+          "zh": "候选药物",
+          "note": "drug candidate"
+        }
+      ]
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Drug developers weigh licensing, pipelines and late-stage risk",
+      "url": "https://endpts.com/",
+      "zh_summary": "关注授权交易、研发管线和后期临床风险。",
+      "vocab": [
+        {
+          "word": "weigh",
+          "zh": "权衡；评估",
+          "note": "weigh risks/options"
+        },
+        {
+          "word": "licensing",
+          "zh": "授权交易",
+          "note": "licensing deal"
+        },
+        {
+          "word": "late-stage",
+          "zh": "后期临床阶段",
+          "note": "late-stage trial"
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline"
+        },
+        {
+          "word": "risk",
+          "zh": "风险",
+          "note": "clinical/commercial risk"
+        }
+      ]
+    },
+    {
+      "source": "Nature Medicine",
+      "title": "New evidence reshapes how researchers think about disease and therapy",
+      "url": "https://www.nature.com/nm/",
+      "zh_summary": "科研报道常通过新证据改变对疾病机制或治疗的理解。",
+      "vocab": [
+        {
+          "word": "evidence",
+          "zh": "证据",
+          "note": "clinical evidence"
+        },
+        {
+          "word": "reshape",
+          "zh": "重塑；改变",
+          "note": "reshape understanding"
+        },
+        {
+          "word": "therapy",
+          "zh": "疗法",
+          "note": "therapeutic approach"
+        },
+        {
+          "word": "mechanism",
+          "zh": "机制",
+          "note": "disease mechanism"
+        },
+        {
+          "word": "findings",
+          "zh": "研究发现",
+          "note": "study findings"
+        }
+      ]
+    }
+  ]
+}
