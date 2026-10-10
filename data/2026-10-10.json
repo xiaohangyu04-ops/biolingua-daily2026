@@ -1,0 +1,170 @@
+{
+  "date": "2026-10-10",
+  "items": [
+    {
+      "source": "Reuters",
+      "title": "US FDA expands use of Novartis drug for chronic skin condition",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanpNYnIybTZ5NkE1TlhWSXFwMm1ad3lKRVJzZXFLdFM4aXJfT3NURGtwMWlKRUJacTZ5UTc2YUx3RUt3SWdaU3MtVy1KX1lDQ295dWlvUXJpYmNVMUNYN18xMHRvZHIxb2lxNl9mQUVGM3RMNXgwRjRrOEwyaXk4TmFYYUtkVGwyeHp5UDNiRUp3b2ZWQWwtS0pEZk5pQUtPN1JvcnRWcktybWtmQlUyNWNBbkxVU0lMS1JiLVVXME95UlNraGc?oc=5",
+      "zh_summary": "这条报道核心是监管审批。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频"
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout"
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline"
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety"
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "title": "Roche goes beyond licensing in deal with Chinese biotech",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkhyXzM0RVBsbEc5ZGJGZ05FeXJGOUJkREhKeWVEb1JOVVBfVmFUM0Zxdks0TUphdDFtWHJsMFpQM1NIcURNa1R1SFFMalItQXhUWjlWZE1qaUZWcmhDV3MzMFRpU3pmSEJRMmd6dGs2RTlBSVBOMU1KZkYxVk93UC1mX2hETjdWSlRDWlJmMkw3cXkxM3E4ZFk0Y2lSQk1oT0tMemVuYURsUQ?oc=5",
+      "zh_summary": "这条报道核心是授权、并购或商业合作。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频"
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout"
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline"
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Cerevance rescues its Parkinson's drug with phase 3 win",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXpwNFdITlJlWmJNQ3NHcDVWWTdCMkxvZHRlT19yZFB5TWN3NWltWFRrclU4Q3RURTdDM3VxRFJBRDZvZUxtZWUwMkF4dngzTWhlVVRlakxncXp0Q2s3aUNsOFhHQ0RGV09nMGpROGxCcWZyWTJfWExmOVNBTkhZcDZSRDRfTVBsSllPRFBUQVo?oc=5",
+      "zh_summary": "这条报道核心是临床试验进展或结果。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频"
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout"
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline"
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety"
+        }
+      ]
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Developing your new medicine in Japan faster",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUZS1VaW55VTVCLVJxT3dvQnNKZ2o5cUZUYklIdGt6WUtSMWQ1ZXVwYlB2R3JjbzVHMnVhQlBZVE53TXFKQVB5eVZGTy13MVh1?oc=5",
+      "zh_summary": "这条报道关注一项医药行业动态。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频"
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout"
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline"
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety"
+        }
+      ]
+    },
+    {
+      "source": "Nature Medicine",
+      "title": "Research articles",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyRmp5VXc1RFhxSkdTcTg5ZEhxNmM3UEZkUVpJd3RWZHB2OEFRSTV1b01qMFhmV2NRRHFYdmxzYURBTlhvdU9CVXRTbERodURRTlVrWWFn?oc=5",
+      "zh_summary": "这条报道关注一项医药行业动态。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频"
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout"
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline"
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety"
+        }
+      ]
+    }
+  ]
+}
