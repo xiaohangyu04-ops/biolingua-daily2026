@@ -1,40 +1,36 @@
-# BioLingua Daily — 免费静态版
+# BioLingua Daily v12 — 真日更去重版
 
-## 你不需要安装 Python
+解决两个核心问题：
 
-### 本地直接使用
-1. 解压 ZIP。
-2. 双击 `index.html`。
-3. 可以使用：TED、历史内容、发音、收藏、测验、间隔复习。
+1. 新闻每天重复
+- 先查过去 24 小时
+- 没有新内容再扩展到 3 天、7 天
+- 用 `data/news_history.json` 记录历史标题
+- 已出现过的标题自动跳过
 
-注意：部分浏览器在 `file://` 模式下会限制读取旁边的 JSON 文件。如果你双击后看不到历史内容，直接使用下面的 GitHub Pages 免费在线方案即可。
+2. TED 每天重复
+- TED 不再写死在网页 JS 里
+- 每天由 GitHub Actions 从 `data/ted_catalog.json` 选一个“从未用过”的 TED
+- `data/ted_history.json` 记录已经学过的 slug
+- 如果 catalog 全部用完，系统宁可当天不生成 TED，也不会重复旧 TED
 
-### 推荐：免费上线 + 每天自动保存历史
+页面仍保留：
+- 中英文新闻速览
+- 双语摘要
+- 专家解读
+- 新闻好句中英对照 + 朗读
+- 每日英语重点
+- TED 双语学习、朗读、Shadowing、感悟
+- 单词收藏
 
-这个项目已经包含：
-- `.github/workflows/update.yml`
-- `scripts/update.mjs`
-- `data/manifest.json`
+## 你在 GitHub 上要替换的文件
+- index.html
+- scripts/update.mjs
+- .github/workflows/update.yml
+- data/ted_catalog.json
+- data/news_history.json
+- data/ted_history.json
+- data/manifest.json
+- data/2026-10-10.json（示例，可留着）
 
-把整个文件夹上传到 GitHub 仓库后：
-1. 打开仓库 Settings → Pages。
-2. Source 选择 `Deploy from a branch`。
-3. 选择 `main` 分支和 `/ (root)`。
-4. 保存。
-5. 打开 Actions，允许工作流运行。
-
-之后 GitHub Actions 会每天运行一次，自动生成：
-`data/YYYY-MM-DD.json`
-
-因此每天都会留下独立快照，可以长期回溯。
-
-### 个人学习记录
-收藏单词、复习进度保存在浏览器 localStorage：
-- 免费
-- 关闭网页后仍保留
-- 但换设备/清浏览器数据不会同步
-
-如以后需要手机/电脑同步，可再接 Supabase/Firebase 免费额度。
-
-### TED
-TED 使用官方嵌入播放器和官方 Transcript 链接，不复制完整讲稿。
+重要：`news_history.json` 和 `ted_history.json` 不能每天删除，它们就是“防重复记忆”。

@@ -1,170 +1,114 @@
 {
   "date": "2026-10-10",
+  "daily_brief": "今天的页面只展示“当天生成”的内容：新闻会优先抓过去 24 小时且自动去重；TED 会从未学习过的清单里挑选，不再按固定周期重复。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "适合做行业分析的通用追问。"
+    },
+    {
+      "en": "a meaningful clinical signal",
+      "zh": "有意义的临床信号",
+      "use": "临床数据解读高频。"
+    },
+    {
+      "en": "reshape the competitive landscape",
+      "zh": "重塑竞争格局",
+      "use": "监管、交易、产品突破均适用。"
+    }
+  ],
   "items": [
     {
-      "source": "Reuters",
-      "title": "US FDA expands use of Novartis drug for chronic skin condition",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanpNYnIybTZ5NkE1TlhWSXFwMm1ad3lKRVJzZXFLdFM4aXJfT3NURGtwMWlKRUJacTZ5UTc2YUx3RUt3SWdaU3MtVy1KX1lDQ295dWlvUXJpYmNVMUNYN18xMHRvZHIxb2lxNl9mQUVGM3RMNXgwRjRrOEwyaXk4TmFYYUtkVGwyeHp5UDNiRUp3b2ZWQWwtS0pEZk5pQUtPN1JvcnRWcktybWtmQlUyNWNBbkxVU0lMS1JiLVVXME95UlNraGc?oc=5",
-      "zh_summary": "这条报道核心是监管审批。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
-      "vocab": [
-        {
-          "word": "clinical trial",
-          "zh": "临床试验",
-          "note": "drug development 高频"
-        },
-        {
-          "word": "regulatory",
-          "zh": "监管的",
-          "note": "regulatory review / approval"
-        },
-        {
-          "word": "readout",
-          "zh": "数据公布",
-          "note": "trial readout"
-        },
-        {
-          "word": "pipeline",
-          "zh": "研发管线",
-          "note": "R&D pipeline"
-        },
-        {
-          "word": "efficacy",
-          "zh": "疗效",
-          "note": "efficacy and safety"
-        }
-      ]
-    },
-    {
-      "source": "STAT",
-      "title": "Roche goes beyond licensing in deal with Chinese biotech",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkhyXzM0RVBsbEc5ZGJGZ05FeXJGOUJkREhKeWVEb1JOVVBfVmFUM0Zxdks0TUphdDFtWHJsMFpQM1NIcURNa1R1SFFMalItQXhUWjlWZE1qaUZWcmhDV3MzMFRpU3pmSEJRMmd6dGs2RTlBSVBOMU1KZkYxVk93UC1mX2hETjdWSlRDWlJmMkw3cXkxM3E4ZFk0Y2lSQk1oT0tMemVuYURsUQ?oc=5",
-      "zh_summary": "这条报道核心是授权、并购或商业合作。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
-      "vocab": [
-        {
-          "word": "clinical trial",
-          "zh": "临床试验",
-          "note": "drug development 高频"
-        },
-        {
-          "word": "regulatory",
-          "zh": "监管的",
-          "note": "regulatory review / approval"
-        },
-        {
-          "word": "readout",
-          "zh": "数据公布",
-          "note": "trial readout"
-        },
-        {
-          "word": "pipeline",
-          "zh": "研发管线",
-          "note": "R&D pipeline"
-        },
-        {
-          "word": "efficacy",
-          "zh": "疗效",
-          "note": "efficacy and safety"
-        }
-      ]
-    },
-    {
       "source": "Fierce Biotech",
-      "title": "Cerevance rescues its Parkinson's drug with phase 3 win",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXpwNFdITlJlWmJNQ3NHcDVWWTdCMkxvZHRlT19yZFB5TWN3NWltWFRrclU4Q3RURTdDM3VxRFJBRDZvZUxtZWUwMkF4dngzTWhlVVRlakxncXp0Q2s3aUNsOFhHQ0RGV09nMGpROGxCcWZyWTJfWExmOVNBTkhZcDZSRDRfTVBsSllPRFBUQVo?oc=5",
-      "zh_summary": "这条报道核心是临床试验进展或结果。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
-      "vocab": [
+      "category": "Regulatory / Clinical",
+      "title_en": "FDA launches pilot program to speed up sluggish phase 1 trials",
+      "title_zh": "FDA 启动试点，试图加速推进缓慢的一期临床试验",
+      "url": "https://www.fiercebiotech.com/",
+      "brief_points": [
         {
-          "word": "clinical trial",
-          "zh": "临床试验",
-          "note": "drug development 高频"
+          "en": "The FDA is testing a pilot program aimed at accelerating phase 1 trial activation.",
+          "zh": "FDA 正在测试一项试点计划，目标是加快一期临床试验的启动。"
         },
         {
-          "word": "regulatory",
-          "zh": "监管的",
-          "note": "regulatory review / approval"
+          "en": "The reform focuses on reducing friction across early-stage clinical development workflows.",
+          "zh": "改革重点是减少早期临床开发流程中的摩擦和等待。"
         },
         {
-          "word": "readout",
-          "zh": "数据公布",
-          "note": "trial readout"
-        },
-        {
-          "word": "pipeline",
-          "zh": "研发管线",
-          "note": "R&D pipeline"
-        },
-        {
-          "word": "efficacy",
-          "zh": "疗效",
-          "note": "efficacy and safety"
+          "en": "The industry will watch whether the pilot changes site selection, CRO demand and development timelines.",
+          "zh": "行业将关注该试点是否会改变试验选址、CRO 需求以及研发时间线。"
         }
-      ]
-    },
-    {
-      "source": "Endpoints News",
-      "title": "Developing your new medicine in Japan faster",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUZS1VaW55VTVCLVJxT3dvQnNKZ2o5cUZUYklIdGt6WUtSMWQ1ZXVwYlB2R3JjbzVHMnVhQlBZVE53TXFKQVB5eVZGTy13MVh1?oc=5",
-      "zh_summary": "这条报道关注一项医药行业动态。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
-      "vocab": [
+      ],
+      "summary_en": "The FDA is testing a new approach designed to shorten the path from protocol preparation to the start of early-stage clinical trials.",
+      "summary_zh": "FDA 正在测试一种新机制，希望缩短从方案准备到早期临床真正启动之间的时间。",
+      "expert_analysis": "从专家视角看，这条新闻的重点不是一句“FDA 要提速”，而是美国开始把早期临床效率视为创新竞争力的一部分。真正的瓶颈往往横跨监管、IRB、合同、预算、中心启动和患者入组，因此试点是否有效，要看它能否减少跨环节摩擦。如果改革兑现，受益方不仅是 biotech，也包括 CRO、临床中心和项目管理团队。对求职者来说，这类新闻值得建立一个固定思维框架：监管动作 → 时间线变化 → 研发成本 → 资产价值 → 全球试验选址。",
+      "key_sentences": [
         {
-          "word": "clinical trial",
-          "zh": "临床试验",
-          "note": "drug development 高频"
+          "en": "The FDA is looking for ways to shorten the path to first-in-human studies.",
+          "zh": "FDA 正在寻找缩短项目进入首次人体试验路径的方法。",
+          "note": "重点表达：shorten the path to..."
         },
         {
-          "word": "regulatory",
-          "zh": "监管的",
-          "note": "regulatory review / approval"
-        },
-        {
-          "word": "readout",
-          "zh": "数据公布",
-          "note": "trial readout"
-        },
-        {
-          "word": "pipeline",
-          "zh": "研发管线",
-          "note": "R&D pipeline"
-        },
-        {
-          "word": "efficacy",
-          "zh": "疗效",
-          "note": "efficacy and safety"
+          "en": "Faster trial activation could strengthen the country's competitive position in early-stage drug development.",
+          "zh": "更快的试验启动可能增强该国在早期药物开发中的竞争地位。",
+          "note": "重点表达：strengthen the competitive position"
         }
-      ]
-    },
-    {
-      "source": "Nature Medicine",
-      "title": "Research articles",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyRmp5VXc1RFhxSkdTcTg5ZEhxNmM3UEZkUVpJd3RWZHB2OEFRSTV1b01qMFhmV2NRRHFYdmxzYURBTlhvdU9CVXRTbERodURRTlVrWWFn?oc=5",
-      "zh_summary": "这条报道关注一项医药行业动态。先找主语和核心动词，再用英文回答：What happened? Why does it matter? What should we watch next?",
+      ],
       "vocab": [
         {
-          "word": "clinical trial",
-          "zh": "临床试验",
-          "note": "drug development 高频"
+          "word": "first-in-human study",
+          "zh": "首次人体试验",
+          "note": "FIH，早期临床开发高频表达。"
         },
         {
-          "word": "regulatory",
-          "zh": "监管的",
-          "note": "regulatory review / approval"
+          "word": "trial activation",
+          "zh": "试验启动",
+          "note": "临床运营常见表达。"
         },
         {
-          "word": "readout",
-          "zh": "数据公布",
-          "note": "trial readout"
+          "word": "regulatory bottleneck",
+          "zh": "监管瓶颈",
+          "note": "bottleneck 可迁移到流程、供应链、招聘等。"
         },
         {
-          "word": "pipeline",
-          "zh": "研发管线",
-          "note": "R&D pipeline"
+          "word": "site activation",
+          "zh": "研究中心启动",
+          "note": "临床运营岗位常见。"
         },
         {
-          "word": "efficacy",
-          "zh": "疗效",
-          "note": "efficacy and safety"
+          "word": "competitive position",
+          "zh": "竞争地位",
+          "note": "适用于行业战略与市场分析。"
         }
       ]
     }
-  ]
+  ],
+  "ted": {
+    "speaker": "Chimamanda Ngozi Adichie",
+    "title": "The danger of a single story",
+    "slug": "chimamanda_ngozi_adichie_the_danger_of_a_single_story",
+    "zh": "单一叙事的危险",
+    "summary_en": "A single story can simplify a complex reality and make incomplete assumptions feel true.",
+    "summary_zh": "单一叙事会把复杂现实压缩成一个看似完整、实则片面的版本。",
+    "key_sentences": [
+      {
+        "en": "A single story creates stereotypes, and the problem with stereotypes is not that they are untrue, but that they are incomplete.",
+        "zh": "单一故事会制造刻板印象，而刻板印象的问题不在于完全错误，而在于它们并不完整。"
+      },
+      {
+        "en": "Multiple perspectives help us see people and systems more accurately.",
+        "zh": "多重视角能帮助我们更准确地理解人和系统。"
+      }
+    ],
+    "shadowing": [
+      "A single headline can never explain an entire industry.",
+      "Good analysis starts when we ask what the story leaves out.",
+      "Multiple perspectives usually lead to better decisions."
+    ],
+    "reflection": [
+      "今天哪条医药新闻最容易被单一叙事误导？",
+      "如果你是公司内部人士，你还会追问什么？",
+      "这场演讲如何改变你阅读行业新闻的方式？"
+    ]
+  }
 }
