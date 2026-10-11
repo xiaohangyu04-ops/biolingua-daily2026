@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-11",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "strategic fit",
+      "zh": "战略契合度",
+      "use": "BD 与交易分析高频。"
+    },
+    {
+      "en": "reshape the competitive landscape",
+      "zh": "重塑竞争格局",
+      "use": "适合监管、交易和产品突破。"
+    }
+  ],
+  "items": [
+    {
+      "source": "Reuters",
+      "category": "BD / Licensing",
+      "title_en": "Zambia says it is negotiating US minerals deal after 'decoupling' from health pact",
+      "title_zh": "今日前沿：Zambia says it is negotiating US minerals deal after 'decoupling' from health pact",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWGE1MUU4S19jTVZZZ2tvZGNRR00za3BsV3JKa1cweW5Pd1BkZ3hLbi01Yk03Q3lnM0djZnhKcnB2a1Fndld6YzkwUFQ4b2ZjelZlRWNIQzdFbG9rRVVxYmNiZ00zNVZiRy1wOFd5VE5lZ19JTXc1WG9sNVVhZExaLUZxeDM5b3NMS2x3V3JjdUtNRjRkWFc1NS1xU2RnVGstSGhQMUZDYktFcGg2T0JUV0x4LWpZeGlXX0VJQTh3TFBRM2N1UVNXMUEyalEzb19SNlUxVUdrXzZhb19NLWlNbQ?oc=5",
+      "published_at": "Thu, 08 Oct 2026 10:48:09 GMT",
+      "brief_points": [
+        {
+          "en": "The update is about licensing, partnership or capital allocation.",
+          "zh": "这条新闻涉及授权、合作或资本配置。"
+        },
+        {
+          "en": "Deal structure often reveals more than headline value.",
+          "zh": "交易结构往往比标题中的总金额透露更多信息。"
+        },
+        {
+          "en": "The next question is whether the transaction changes competitive positioning or pipeline priorities.",
+          "zh": "下一步要看这笔交易是否改变竞争位置或管线优先级。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Zambia says it is negotiating US minerals deal after 'decoupling' from health pact",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家不会只看交易总额，而会关注首付款、里程碑、权益范围和战略契合度，因为这些更能反映资产质量与双方议价能力。",
+      "key_sentences": [
+        {
+          "en": "Zambia says it is negotiating US minerals deal after 'decoupling' from health pact",
+          "zh": "Zambia says it is negotiating US minerals deal after 'decoupling' from health pact",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "category": "Research Frontier",
+      "title_en": "Americans trust science more than peers around the world, survey shows",
+      "title_zh": "今日前沿：Americans trust science more than peers around the world, survey shows",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0gtZkRudWVkcUFlRkxMTXZRRGdSczFZWTBoOVVKd0lWYWpybXpiT29ZSGFLWi1jSXBDX0YyRW8xcEhIUXJzV1RUYmVfYWxQRThFc24zZUMtQUp6OHRfQzljYWRHY09nRXpTYUpEdEk4RFY0d0xBYlVvZ0xKbWpfd2JCMWkyMFRRdDFCU2VnaUhiN1JMbHBZeWtzU28?oc=5",
+      "published_at": "Sat, 10 Oct 2026 23:02:39 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Americans trust science more than peers around the world, survey shows",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "Americans trust science more than peers around the world, survey shows",
+          "zh": "Americans trust science more than peers around the world, survey shows",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Research Frontier",
+      "title_en": "How we picked the Fierce 15",
+      "title_zh": "今日前沿：How we picked the Fierce 15",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDTmplS3FZN2hBSlRmeEN2UHFMTWJuclI2YXpRaXFnamhIeWFxdnJJV29QMUZQUlc5dnp0dk51eHVpQmdXdmJkeFlYRjdWVzJpOEYtby10ZFNaNTNRdVpZWE0zNTMtakF3aHRiTU1B?oc=5",
+      "published_at": "Fri, 09 Oct 2026 11:21:39 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: How we picked the Fierce 15",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "How we picked the Fierce 15",
+          "zh": "How we picked the Fierce 15",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": {
+    "speaker": "Jennifer Doudna",
+    "title": "How CRISPR lets us edit our DNA",
+    "slug": "jennifer_doudna_how_crispr_lets_us_edit_our_dna",
+    "zh": "CRISPR 如何让我们编辑 DNA",
+    "summary_en": "This talk helps you practice structured thinking around the theme: How CRISPR lets us edit our DNA.",
+    "summary_zh": "今天用这场 TED 训练“听主旨—抓表达—做复述—写感悟”。主题是：CRISPR 如何让我们编辑 DNA。",
+    "key_sentences": [
+      {
+        "en": "Good ideas become more useful when we can explain them clearly.",
+        "zh": "当我们能够清楚表达时，好想法才会变得更有用。"
+      },
+      {
+        "en": "A strong explanation connects the main idea with a concrete example.",
+        "zh": "有力的解释会把核心观点与具体例子连接起来。"
+      }
+    ],
+    "shadowing": [
+      "Let me summarize the main idea in my own words.",
+      "The most useful point for me is the way this idea changes how I think.",
+      "I can connect this idea to a real situation in my work or study."
+    ],
+    "reflection": [
+      "这场演讲最核心的观点是什么？",
+      "哪一个英文表达最值得你复用？",
+      "它和今天的医药行业新闻有什么联系？"
+    ]
+  }
+}
