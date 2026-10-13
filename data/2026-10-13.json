@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-13",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "regulatory pathway",
+      "zh": "监管路径",
+      "use": "审批与开发策略常见。"
+    },
+    {
+      "en": "reshape the competitive landscape",
+      "zh": "重塑竞争格局",
+      "use": "适合监管、交易和产品突破。"
+    }
+  ],
+  "items": [
+    {
+      "source": "Reuters",
+      "category": "Research Frontier",
+      "title_en": "US and German scientists win Nobel medicine prize for work on light and brain",
+      "title_zh": "今日前沿：US and German scientists win Nobel medicine prize for work on light and brain",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXo2cFZNQjV2OVJOVnRDUlIzR0VJazh3WWt0MXlQXzBkWXlPRG1RVzZtVWlvbmdZMXFBM08xQzR0ZVlVdGtYVm5Dd2ptcHVhZmp1RDFxQkkxUzV4V2FLWWtaNlRWY25MbDVJSGsxNlA0LUdfNkVBOXdDTUdrNDdSR2lNSHc2c2VBMW1iejZWZ0tNN1hiVjBTdC1xcWR1SnA0cTFlVVF0RFA1SGhLWHZzR0QwbWkzYWRiM2U5dmpHdnJ3UnJV?oc=5",
+      "published_at": "Tue, 06 Oct 2026 14:23:45 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: US and German scientists win Nobel medicine prize for work on light and brain",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "US and German scientists win Nobel medicine prize for work on light and brain",
+          "zh": "US and German scientists win Nobel medicine prize for work on light and brain",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "category": "Research Frontier",
+      "title_en": "Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+      "title_zh": "今日前沿：Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWndwV1YwNFFYbnNVUUJWZ0xodGM2WHd1TVQ0cWp1LXBlOEtGX3RlRmhqaHdhWnlQQ3M2eXRjVlpSNVk4cFpLWVdObXR4Q094NkZxaVVUNW9PeFh5Z0dMN0Vmd3lxZnhkNXhUTFRXXzR0LVRoSjhibklDTHBGYnZOeDgxNmR5MzBh?oc=5",
+      "published_at": "Tue, 13 Oct 2026 08:37:11 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+          "zh": "Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Regulatory / Approval",
+      "title_en": "Roche sets sights on FDA approval decision of July 2027 with updated eye drug data",
+      "title_zh": "今日前沿：Roche sets sights on FDA approval decision of July 2027 with updated eye drug data",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHF5YU5mUzZaY3ZrUVZXZW84R0wtTVVXTjl2VURUd1YzVzJ4aTcteGVyc0dCM0xmV1ZZRThPRzlMcWhYVUROLThFTjZDdXdBcHlnZGl6V2FMUlFybHhtVE1jN2VIT3p6ZWFlRGl2VlgySTRZSVY5VVlHMFIzbmllVDFkSVI1M3hyeFBERXpPWDNxeWo0eDlPVA?oc=5",
+      "published_at": "Mon, 12 Oct 2026 13:42:07 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Roche sets sights on FDA approval decision of July 2027 with updated eye drug data",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "Roche sets sights on FDA approval decision of July 2027 with updated eye drug data",
+          "zh": "Roche sets sights on FDA approval decision of July 2027 with updated eye drug data",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Nature Medicine",
+      "category": "Research Frontier",
+      "title_en": "Addenda in 2026",
+      "title_zh": "今日前沿：Addenda in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZkdJRXVWaVFmX3ZxeXJJbHo1enNaejBXZEJ6TzdsbXlBRFBrR2luN0VUX1hWQ2R5anFtVFdTaXZHdFYxaURMTHVBT0FaZ3hzdmtzWGg4dHdXaGFYUU05MFhISERnUTJvTFE?oc=5",
+      "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Addenda in 2026",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "Addenda in 2026",
+          "zh": "Addenda in 2026",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": {
+    "speaker": "Simon Sinek",
+    "title": "How great leaders inspire action",
+    "slug": "simon_sinek_how_great_leaders_inspire_action",
+    "zh": "伟大的领导者如何激励行动",
+    "summary_en": "This talk helps you practice structured thinking around the theme: How great leaders inspire action.",
+    "summary_zh": "今天用这场 TED 训练“听主旨—抓表达—做复述—写感悟”。主题是：伟大的领导者如何激励行动。",
+    "key_sentences": [
+      {
+        "en": "Good ideas become more useful when we can explain them clearly.",
+        "zh": "当我们能够清楚表达时，好想法才会变得更有用。"
+      },
+      {
+        "en": "A strong explanation connects the main idea with a concrete example.",
+        "zh": "有力的解释会把核心观点与具体例子连接起来。"
+      }
+    ],
+    "shadowing": [
+      "Let me summarize the main idea in my own words.",
+      "The most useful point for me is the way this idea changes how I think.",
+      "I can connect this idea to a real situation in my work or study."
+    ],
+    "reflection": [
+      "这场演讲最核心的观点是什么？",
+      "哪一个英文表达最值得你复用？",
+      "它和今天的医药行业新闻有什么联系？"
+    ]
+  }
+}
