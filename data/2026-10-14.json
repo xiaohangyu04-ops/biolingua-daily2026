@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-14",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "a meaningful clinical signal",
+      "zh": "有意义的临床信号",
+      "use": "临床数据解读高频。"
+    },
+    {
+      "en": "regulatory pathway",
+      "zh": "监管路径",
+      "use": "审批与开发策略常见。"
+    }
+  ],
+  "items": [
+    {
+      "source": "STAT",
+      "category": "Regulatory / Approval",
+      "title_en": "Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
+      "title_zh": "今日前沿：Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYnFOUW4yR1RsTUdOOUdnVEFSOHdGSk5HQnkwMG9HWTd2TVBBTG1VYVBCZk1JdmpsY2tFbnlTNk5uSXJ4RFowSU1fSndpZGFtbWZmOEVGYjJ0WnVPQjVkdnhjTGJPZEZJWVRERkNRaXpfSVBGYzBwZmFSSXcyZ0NtaWVpaVBraHp4MDNQT0pwTVVpS3JNZGhWZ0lSZW1vSkZ2NmtSRGhfOXQ0bjBhZ3I1MEIzbnhmbTRQVzVqZC1NcjNyR1p3SEJCeDd3TWVUM0kzaHc?oc=5",
+      "published_at": "Tue, 13 Oct 2026 18:08:53 GMT",
+      "brief_points": [
+        {
+          "en": "The story is primarily about a regulatory decision or policy shift.",
+          "zh": "这条新闻主要涉及监管决定或政策变化。"
+        },
+        {
+          "en": "Regulatory changes can alter development timelines and commercial options.",
+          "zh": "监管变化可能改变研发时间线和商业选择。"
+        },
+        {
+          "en": "Watch which companies, trial stages or therapeutic areas are affected first.",
+          "zh": "接下来要看哪些公司、试验阶段或治疗领域最先受到影响。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会把监管动作放进研发时间线、成本和竞争格局中理解。真正值得关注的是它会改变哪一段流程、哪些公司先受益、是否形成长期趋势。",
+      "key_sentences": [
+        {
+          "en": "Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
+          "zh": "Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Clinical / Data",
+      "title_en": "BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence",
+      "title_zh": "今日前沿：BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZuRk1zMFhhQmhFQmZVak0zXzV5NjFfTGtWVGFaYnVJVk1EbG42eGFpaHp1eVNRam4zaHE0aDZ6eHhtcU5MRlBqVXRPc2dWdHdYS3pMOUlaUlBvRXhOcmZrNDExRllBWjZ3Nm1pRTRud3NETzFHOWlmWWc3NTM4YmhoMGcwTkJBYXB2MHNmR0poWWEyRklkWXdONDdZbXhTYXEzalJfRER1TmJ5d1I3M3BUdy02aTMxVWlPbS1PTW9haVpTWGFZ?oc=5",
+      "published_at": "Tue, 13 Oct 2026 12:48:17 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence",
+          "zh": "BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": {
+    "speaker": "Brené Brown",
+    "title": "The power of vulnerability",
+    "slug": "brene_brown_the_power_of_vulnerability",
+    "zh": "脆弱的力量",
+    "summary_en": "This talk helps you practice structured thinking around the theme: The power of vulnerability.",
+    "summary_zh": "今天用这场 TED 训练“听主旨—抓表达—做复述—写感悟”。主题是：脆弱的力量。",
+    "key_sentences": [
+      {
+        "en": "Good ideas become more useful when we can explain them clearly.",
+        "zh": "当我们能够清楚表达时，好想法才会变得更有用。"
+      },
+      {
+        "en": "A strong explanation connects the main idea with a concrete example.",
+        "zh": "有力的解释会把核心观点与具体例子连接起来。"
+      }
+    ],
+    "shadowing": [
+      "Let me summarize the main idea in my own words.",
+      "The most useful point for me is the way this idea changes how I think.",
+      "I can connect this idea to a real situation in my work or study."
+    ],
+    "reflection": [
+      "这场演讲最核心的观点是什么？",
+      "哪一个英文表达最值得你复用？",
+      "它和今天的医药行业新闻有什么联系？"
+    ]
+  }
+}
