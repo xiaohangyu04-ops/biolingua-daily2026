@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-16",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "a meaningful clinical signal",
+      "zh": "有意义的临床信号",
+      "use": "临床数据解读高频。"
+    },
+    {
+      "en": "strategic fit",
+      "zh": "战略契合度",
+      "use": "BD 与交易分析高频。"
+    }
+  ],
+  "items": [
+    {
+      "source": "Reuters",
+      "category": "BD / Licensing",
+      "title_en": "Roche strikes obesity drug licensing deal worth up to $1.16 bln with Chinese Rona Therapeutics",
+      "title_zh": "今日前沿：Roche strikes obesity drug licensing deal worth up to $1.16 bln with Chinese Rona Therapeutics",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQjJNeHFfOERiVFF1ZUFndDdaZ1BvUFpQSGpTRjlSYnY5bnkzaVdoQUhZSGhmVnctU3VWV0NSdkZWak1zY2dGM1RDekQ4UnJvcXVld3BjWXc1cWN1bG1RQzRySU5DZzA3TUs4aF9zd1U3LW84YkdWRDY3dmNCVGU0S0ZXY3U5NXdmMGdUSU9qVXNmYUY0Nm5JNGRQNXBBaWlYSDFQRkt0UWNWajBNRkd4NDBuWktKLU9kb19NOHZfQlVGdHJ0MGh3QTl4WGZzbVFxVnlMWGwxcnhJaGVOUjh0cldn?oc=5",
+      "published_at": "Tue, 13 Oct 2026 14:08:27 GMT",
+      "brief_points": [
+        {
+          "en": "The update is about licensing, partnership or capital allocation.",
+          "zh": "这条新闻涉及授权、合作或资本配置。"
+        },
+        {
+          "en": "Deal structure often reveals more than headline value.",
+          "zh": "交易结构往往比标题中的总金额透露更多信息。"
+        },
+        {
+          "en": "The next question is whether the transaction changes competitive positioning or pipeline priorities.",
+          "zh": "下一步要看这笔交易是否改变竞争位置或管线优先级。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Roche strikes obesity drug licensing deal worth up to $1.16 bln with Chinese Rona Therapeutics",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家不会只看交易总额，而会关注首付款、里程碑、权益范围和战略契合度，因为这些更能反映资产质量与双方议价能力。",
+      "key_sentences": [
+        {
+          "en": "Roche strikes obesity drug licensing deal worth up to $1.16 bln with Chinese Rona Therapeutics",
+          "zh": "Roche strikes obesity drug licensing deal worth up to $1.16 bln with Chinese Rona Therapeutics",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "category": "Research Frontier",
+      "title_en": "On Wall Street, there’s trouble stirring for biotech",
+      "title_zh": "今日前沿：On Wall Street, there’s trouble stirring for biotech",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uSVY5VzBlbEJ4WVFtTFh0YWVVT0lYOG1PWXh6UWRTRk5SbGxCQnRxRHAxbU1Bc0dWSUtDbmp4Z0h4bzdEUkVFaUtMNUk4OTRjQlJNcks3aFpzYmEwSVNwaWRUcGhYOXZ0eHhYRllpc3F5aDhZQlViNVc4MFhMdw?oc=5",
+      "published_at": "Thu, 15 Oct 2026 15:18:39 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: On Wall Street, there’s trouble stirring for biotech",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "On Wall Street, there’s trouble stirring for biotech",
+          "zh": "On Wall Street, there’s trouble stirring for biotech",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Clinical / Data",
+      "title_en": "Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study",
+      "title_zh": "今日前沿：Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjNlTlFjY0RJTm9DWnY2OTFNYXBFblhtOUxMQ3g5Q01hVk1vREVhU0JydTZQdVZFQWxTTGZFNXpFVFZNZy0zdGNlNGtXdXJiX3J2NEJEcTlpN0dCY0NCd0NNLUY3NHZfdTlhUjh2Z2ptOEtzV0JKanlBVzltbWw1VE44SWNCaE1HN1VuaFVHYkNmQ3NOUEp2Uk9qNHVrMU5JZlM4aTNpa0pmR0lYbWs1S0JR?oc=5",
+      "published_at": "Thu, 15 Oct 2026 06:25:58 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study",
+          "zh": "Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": {
+    "speaker": "Kelly McGonigal",
+    "title": "How to make stress your friend",
+    "slug": "kelly_mcgonigal_how_to_make_stress_your_friend",
+    "zh": "如何与压力做朋友",
+    "summary_en": "This talk helps you practice structured thinking around the theme: How to make stress your friend.",
+    "summary_zh": "今天用这场 TED 训练“听主旨—抓表达—做复述—写感悟”。主题是：如何与压力做朋友。",
+    "key_sentences": [
+      {
+        "en": "Good ideas become more useful when we can explain them clearly.",
+        "zh": "当我们能够清楚表达时，好想法才会变得更有用。"
+      },
+      {
+        "en": "A strong explanation connects the main idea with a concrete example.",
+        "zh": "有力的解释会把核心观点与具体例子连接起来。"
+      }
+    ],
+    "shadowing": [
+      "Let me summarize the main idea in my own words.",
+      "The most useful point for me is the way this idea changes how I think.",
+      "I can connect this idea to a real situation in my work or study."
+    ],
+    "reflection": [
+      "这场演讲最核心的观点是什么？",
+      "哪一个英文表达最值得你复用？",
+      "它和今天的医药行业新闻有什么联系？"
+    ]
+  }
+}
