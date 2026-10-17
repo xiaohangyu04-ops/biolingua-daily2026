@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-17",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "reshape the competitive landscape",
+      "zh": "重塑竞争格局",
+      "use": "适合监管、交易和产品突破。"
+    }
+  ],
+  "items": [
+    {
+      "source": "STAT",
+      "category": "Research Frontier",
+      "title_en": "In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+      "title_zh": "今日前沿：In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0g4YXpxYV9UMElEV3k5TDVqcVNra3dXUmtsMjh5SENMMlZISDRfNlk3dHNTcmFMem1Pel93aW44WkVVNy1MREtjbHJURDJHRmRyc0c0eUNzTEp4QVV0ekg4bHJrNUN2clo4Y0RYdnZvbDA3WkNUVVZrNTl1cnpjZHJhTVlhUUxmTU02QTJsUjYxam90dVdrVVBKNm9oUnhTUUZYUkVScw?oc=5",
+      "published_at": "Fri, 16 Oct 2026 10:15:01 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+          "zh": "In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Research Frontier",
+      "title_en": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
+      "title_zh": "今日前沿：Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnJHM0k5TlI0a3dfaHdPZ0NkSDNweENsSW9MQURRVmgzbEpXd2x1TmFOc3dxd2tNUEVSS2tBcVVyV1h5dmZnYUZiMUVyaV9MMVRRSkRtSk1vdzNUekNmTzdfNHlsWHNsSWJMQXljUWVrTlVwQndJRWp0LS1xRG5tNkdLelFadkdhdFZNVTF4ZWMwcjk5MDc5NUZJazllNmdFbFE?oc=5",
+      "published_at": "Fri, 16 Oct 2026 10:30:00 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
+          "zh": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": {
+    "speaker": "Dan Pink",
+    "title": "The puzzle of motivation",
+    "slug": "dan_pink_the_puzzle_of_motivation",
+    "zh": "动机之谜",
+    "summary_en": "This talk helps you practice structured thinking around the theme: The puzzle of motivation.",
+    "summary_zh": "今天用这场 TED 训练“听主旨—抓表达—做复述—写感悟”。主题是：动机之谜。",
+    "key_sentences": [
+      {
+        "en": "Good ideas become more useful when we can explain them clearly.",
+        "zh": "当我们能够清楚表达时，好想法才会变得更有用。"
+      },
+      {
+        "en": "A strong explanation connects the main idea with a concrete example.",
+        "zh": "有力的解释会把核心观点与具体例子连接起来。"
+      }
+    ],
+    "shadowing": [
+      "Let me summarize the main idea in my own words.",
+      "The most useful point for me is the way this idea changes how I think.",
+      "I can connect this idea to a real situation in my work or study."
+    ],
+    "reflection": [
+      "这场演讲最核心的观点是什么？",
+      "哪一个英文表达最值得你复用？",
+      "它和今天的医药行业新闻有什么联系？"
+    ]
+  }
+}
