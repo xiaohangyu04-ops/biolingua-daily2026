@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-27",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "a meaningful clinical signal",
+      "zh": "有意义的临床信号",
+      "use": "临床数据解读高频。"
+    },
+    {
+      "en": "reshape the competitive landscape",
+      "zh": "重塑竞争格局",
+      "use": "适合监管、交易和产品突破。"
+    }
+  ],
+  "items": [
+    {
+      "source": "Reuters",
+      "category": "Clinical / Data",
+      "title_en": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
+      "title_zh": "今日前沿：Merck drug extends survival in endometrial cancer trial, wins US priority review",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdIZ0VwaGxubUJfcXBfUGhJTnliUTV0ZUU0SFNKdmlqd0VKdFBOSUdqZUFmLWRvT3N3Q0ZGZGd2a2FoejlrLXZXX3NOaThwX2RnbzFTcUREQ2FjOTdnQ2dlQzZQWUg0R1U3ejZJSTBudGNOWWxWY2pEanpuYllLZUlDNXlmX0VqLXJyZnBHSF9kRTktZlpVbmpMUk5zNzA3ZlBrZkZiaHVvYko0YTJGWl9iV0NLVWhhRkZMWDYtS0gwODhkV3NFYU13UWVhNEdwT1AzQkxxTEw?oc=5",
+      "published_at": "Mon, 26 Oct 2026 22:37:25 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Merck drug extends survival in endometrial cancer trial, wins US priority review",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
+          "zh": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "category": "Research Frontier",
+      "title_en": "Five biotech updates to read after ESMO this weekend",
+      "title_zh": "今日前沿：Five biotech updates to read after ESMO this weekend",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYktCMGZDS3hXUmdpT3FmUC1iZTNVUFRjcFFzQjJzLUxNb0hNd3RNLW1uOFdMSEozbGQ5Q2ZjcXo5TGJCZHAyZUZSTHJhN3FfaEJTYjBBY0x1Z045UXdmRE1QQWhwQTFJcFViVUZCenVSaXBpcm5paEFra2ZhQ09wR08td080c0Mwc0w0aWREZ2I4eUg2dkZ5dmlWR25OS204V3c?oc=5",
+      "published_at": "Mon, 26 Oct 2026 22:36:07 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Five biotech updates to read after ESMO this weekend",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "Five biotech updates to read after ESMO this weekend",
+          "zh": "Five biotech updates to read after ESMO this weekend",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Research Frontier",
+      "title_en": "ESMO: Why Incyte sees itself ‘neck and neck’ with RevMed in KRAS G12D pancreatic cancer race",
+      "title_zh": "今日前沿：ESMO: Why Incyte sees itself ‘neck and neck’ with RevMed in KRAS G12D pancreatic cancer race",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeWpya29fU2s3MVFCdGNMRG9oUkwxd0l4Z3BEbi1xNG14UzQwT3o0YVpubl9KSjNUZXlwd21RemRQalg3ZkxpRklHZ2l4V3dlcG5ZVThzRXJLTVJxLTJ5dHljTjJIOUhHakx2S2lKeHJhU0dJWjk4MHRnRzVvLTBrS3NyZVFUZUxQRjZCMWdxNEdTV0ljdkZ2YUVBb0d0WEFjS1pn?oc=5",
+      "published_at": "Mon, 26 Oct 2026 13:45:00 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: ESMO: Why Incyte sees itself ‘neck and neck’ with RevMed in KRAS G12D pancreatic cancer race",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "ESMO: Why Incyte sees itself ‘neck and neck’ with RevMed in KRAS G12D pancreatic cancer race",
+          "zh": "ESMO: Why Incyte sees itself ‘neck and neck’ with RevMed in KRAS G12D pancreatic cancer race",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": {
+    "speaker": "Shawn Achor",
+    "title": "The happy secret to better work",
+    "slug": "shawn_achor_the_happy_secret_to_better_work",
+    "zh": "更高效工作的幸福秘诀",
+    "summary_en": "This talk helps you practice structured thinking around the theme: The happy secret to better work.",
+    "summary_zh": "今天用这场 TED 训练“听主旨—抓表达—做复述—写感悟”。主题是：更高效工作的幸福秘诀。",
+    "key_sentences": [
+      {
+        "en": "Good ideas become more useful when we can explain them clearly.",
+        "zh": "当我们能够清楚表达时，好想法才会变得更有用。"
+      },
+      {
+        "en": "A strong explanation connects the main idea with a concrete example.",
+        "zh": "有力的解释会把核心观点与具体例子连接起来。"
+      }
+    ],
+    "shadowing": [
+      "Let me summarize the main idea in my own words.",
+      "The most useful point for me is the way this idea changes how I think.",
+      "I can connect this idea to a real situation in my work or study."
+    ],
+    "reflection": [
+      "这场演讲最核心的观点是什么？",
+      "哪一个英文表达最值得你复用？",
+      "它和今天的医药行业新闻有什么联系？"
+    ]
+  }
+}
