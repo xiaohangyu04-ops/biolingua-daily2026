@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-31",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "a meaningful clinical signal",
+      "zh": "有意义的临床信号",
+      "use": "临床数据解读高频。"
+    },
+    {
+      "en": "reshape the competitive landscape",
+      "zh": "重塑竞争格局",
+      "use": "适合监管、交易和产品突破。"
+    }
+  ],
+  "items": [
+    {
+      "source": "STAT",
+      "category": "Research Frontier",
+      "title_en": "How Election Day can affect your heart",
+      "title_zh": "今日前沿：How Election Day can affect your heart",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42MEYwZVYxOVhSZ3NvNkJpMnFWMmdSQlpqeWZKT3M4WlRobDZreDR0clI0ZVU1RnNta25nTVZZa0VJejREVHRybHZSSDVQTmxYbG9LRmI2ek9MWWFubWRNLXE1VkZpSy1tTklEXzhMdVN4SHlnY1FhSF9B?oc=5",
+      "published_at": "Fri, 30 Oct 2026 14:11:26 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: How Election Day can affect your heart",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "How Election Day can affect your heart",
+          "zh": "How Election Day can affect your heart",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Clinical / Data",
+      "title_en": "Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials",
+      "title_zh": "今日前沿：Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW1zQkd0NGF6WnYzelhtVFh4dm1XNnJYWEtuanFkSWNnQVA3c01sU1N1TGNKWXgxT2dpR0MtRGRNZ21ndkFobTVhd3pDQU90OGNtR205WnlvZGRvNWE5UkZEZkxlUnk5dTV0R000S0s5cjZEWDQ5QTVKcWJta1UtMU95cVM5YVZhVVM2V2FNRmU4aW9zNXhWYnNOellMMTVoM21ndjd3OGRSWUls?oc=5",
+      "published_at": "Fri, 30 Oct 2026 14:04:02 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials",
+          "zh": "Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": {
+    "speaker": "Adam Grant",
+    "title": "The surprising habits of original thinkers",
+    "slug": "adam_grant_the_surprising_habits_of_original_thinkers",
+    "zh": "原创思想者的惊人习惯",
+    "summary_en": "This talk helps you practice structured thinking around the theme: The surprising habits of original thinkers.",
+    "summary_zh": "今天用这场 TED 训练“听主旨—抓表达—做复述—写感悟”。主题是：原创思想者的惊人习惯。",
+    "key_sentences": [
+      {
+        "en": "Good ideas become more useful when we can explain them clearly.",
+        "zh": "当我们能够清楚表达时，好想法才会变得更有用。"
+      },
+      {
+        "en": "A strong explanation connects the main idea with a concrete example.",
+        "zh": "有力的解释会把核心观点与具体例子连接起来。"
+      }
+    ],
+    "shadowing": [
+      "Let me summarize the main idea in my own words.",
+      "The most useful point for me is the way this idea changes how I think.",
+      "I can connect this idea to a real situation in my work or study."
+    ],
+    "reflection": [
+      "这场演讲最核心的观点是什么？",
+      "哪一个英文表达最值得你复用？",
+      "它和今天的医药行业新闻有什么联系？"
+    ]
+  }
+}
