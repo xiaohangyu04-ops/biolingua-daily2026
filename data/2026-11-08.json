@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-08",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "regulatory pathway",
+      "zh": "监管路径",
+      "use": "审批与开发策略常见。"
+    },
+    {
+      "en": "reshape the competitive landscape",
+      "zh": "重塑竞争格局",
+      "use": "适合监管、交易和产品突破。"
+    }
+  ],
+  "items": [
+    {
+      "source": "Reuters",
+      "category": "Research Frontier",
+      "title_en": "Weak US sentiment hurts dietary supplement sales, offsetting broader growth, Novonesis CEO says",
+      "title_zh": "今日前沿：Weak US sentiment hurts dietary supplement sales, offsetting broader growth, Novonesis CEO says",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOamNwU1dOaEFHVVhKd0FCa0Zha2lsWnpkZTZObTdPZXdDbUpzcE1Va3BIanRiVTlsd3hTMGpUMlQzaG1zcE43Z0p4LWlZX3gxRE5wa0xoTjJnQ044MFh5X2pZd0F5aWVNSkhkY21iQk8xOElBSERQeG9qdWlhRVNORkhiUFhSLXRManA0LWxEYnQyamdCMnlvZFppSzNHNjVYRmFrR3JaN1VyNGNIZlRlVXdFazl3dGp2dUVsenNpR3ZqQUg4dGFweV84M0plcmRXUFBaVnJfeHZockF0NVZR?oc=5",
+      "published_at": "Thu, 05 Nov 2026 11:58:47 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Weak US sentiment hurts dietary supplement sales, offsetting broader growth, Novonesis CEO says",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "Weak US sentiment hurts dietary supplement sales, offsetting broader growth, Novonesis CEO says",
+          "zh": "Weak US sentiment hurts dietary supplement sales, offsetting broader growth, Novonesis CEO says",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "category": "Research Frontier",
+      "title_en": "Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+      "title_zh": "今日前沿：Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzZjRi0zQ2tqem9tc21wRDZpLUxuVzJpNVl5ZVkxQ2dVZnhHUm1IYVFsMDRjQU9tSzB3cnlXbnI5eUpaUmYydjhYeVZKUWNTcnBYQlVQS0ItMkxDTFFaMm1XWWxFSmdkUWdJVVFDOTJNMzEtVko4eEM0V0JWLXAwNzdnd1VPTTFUc2tMbmVxRUZ5d1dFOWNObFNOQzJrd2d2Y29kM2NLVWt5dERNNGc?oc=5",
+      "published_at": "Sat, 07 Nov 2026 14:54:03 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+          "zh": "Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Regulatory / Approval",
+      "title_en": "FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
+      "title_zh": "今日前沿：FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlNTSHZqcEQ5ZVhKNEk2cE1uSTUxRjFnclhCZHFxU1ZwSG5HRWtTRUFWbVc3ejNZd2gyUzNlMXVLdUF1TjZqUlpDRlM0UGZjWHJGYVNGSFhQc1FpQmYwNEdKazJrbDRJMS05ZzJweDE2bmxOY3VYQUd5WnpZNmNMUkNFV3prYl9aNU5rS2hmdzlxQXU5d2hSR0YzWXhsU05RaTZUdi1sWGRPaVV5MFNleDV1NGZ0S1lSbVd4aHVR?oc=5",
+      "published_at": "Mon, 02 Nov 2026 21:12:18 GMT",
+      "brief_points": [
+        {
+          "en": "The story is primarily about a regulatory decision or policy shift.",
+          "zh": "这条新闻主要涉及监管决定或政策变化。"
+        },
+        {
+          "en": "Regulatory changes can alter development timelines and commercial options.",
+          "zh": "监管变化可能改变研发时间线和商业选择。"
+        },
+        {
+          "en": "Watch which companies, trial stages or therapeutic areas are affected first.",
+          "zh": "接下来要看哪些公司、试验阶段或治疗领域最先受到影响。"
+        }
+      ],
+      "summary_en": "Today's update centers on: FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会把监管动作放进研发时间线、成本和竞争格局中理解。真正值得关注的是它会改变哪一段流程、哪些公司先受益、是否形成长期趋势。",
+      "key_sentences": [
+        {
+          "en": "FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
+          "zh": "FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": {
+    "speaker": "Emily Esfahani Smith",
+    "title": "There's more to life than being happy",
+    "slug": "emily_esfahani_smith_theres_more_to_life_than_being_happy",
+    "zh": "人生不只有快乐",
+    "summary_en": "This talk helps you practice structured thinking around the theme: There's more to life than being happy.",
+    "summary_zh": "今天用这场 TED 训练“听主旨—抓表达—做复述—写感悟”。主题是：人生不只有快乐。",
+    "key_sentences": [
+      {
+        "en": "Good ideas become more useful when we can explain them clearly.",
+        "zh": "当我们能够清楚表达时，好想法才会变得更有用。"
+      },
+      {
+        "en": "A strong explanation connects the main idea with a concrete example.",
+        "zh": "有力的解释会把核心观点与具体例子连接起来。"
+      }
+    ],
+    "shadowing": [
+      "Let me summarize the main idea in my own words.",
+      "The most useful point for me is the way this idea changes how I think.",
+      "I can connect this idea to a real situation in my work or study."
+    ],
+    "reflection": [
+      "这场演讲最核心的观点是什么？",
+      "哪一个英文表达最值得你复用？",
+      "它和今天的医药行业新闻有什么联系？"
+    ]
+  }
+}
