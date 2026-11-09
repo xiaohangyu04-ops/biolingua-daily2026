@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-09",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "a meaningful clinical signal",
+      "zh": "有意义的临床信号",
+      "use": "临床数据解读高频。"
+    },
+    {
+      "en": "reshape the competitive landscape",
+      "zh": "重塑竞争格局",
+      "use": "适合监管、交易和产品突破。"
+    }
+  ],
+  "items": [
+    {
+      "source": "Reuters",
+      "category": "Clinical / Data",
+      "title_en": "Zura Bio's skin disease drug fails mid-stage trial",
+      "title_zh": "今日前沿：Zura Bio's skin disease drug fails mid-stage trial",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2ZDR01Wb2lhZEU1UFkyOUZMOG9fN3ZxbV82cW5mY2dROElCSFhpWFJISFRLM1h0U3Qwb0JWaFhhRHFLRVR1RnYtUng0ZENRTDJyN2xQcEtGNWRmdGFmcVVwZDZDX0duRGE2MDJ0S09INmdKUGd3aThQMWVHSXhUYUZHRXRoQXN5TzNzLUo5Sm1FaDE4VURXa2h5Y1UxQUV3Wm9tUVlOa2JQRFQ1M3lPOGgwLVpiVmlMS0djR3p3?oc=5",
+      "published_at": "Mon, 09 Nov 2026 12:42:02 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Zura Bio's skin disease drug fails mid-stage trial",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "Zura Bio's skin disease drug fails mid-stage trial",
+          "zh": "Zura Bio's skin disease drug fails mid-stage trial",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "category": "Research Frontier",
+      "title_en": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
+      "title_zh": "今日前沿：Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3NTLTR3TG52WkRpc3JsSDh3Yk1PcFZXYU53NDJXeTd3SWc3UWFXNEJzT19IYnU0bUxsRDd2cXhJdEFGSTFWSkZGWUtOcXFfTEo4TVZCblVrNkJVcGJzcnYtYVkzQWE3UTBqX1dPT2Y5c2tpZmtmOGNhYzltTV9yMFBkMzFuejg1M1VEeWk5VUtSR3BadkVXV3pwWQ?oc=5",
+      "published_at": "Sun, 08 Nov 2026 22:18:45 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
+          "zh": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Clinical / Data",
+      "title_en": "Faeth’s phase 2 data power oral combo forward in cancer targeted by ADC heavyweights",
+      "title_zh": "今日前沿：Faeth’s phase 2 data power oral combo forward in cancer targeted by ADC heavyweights",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMng2Sm8xOUYxU29GblpwX2h4Szg2UGZNMVJtUFBWZE14Z1RIeEhFSHlkenFYU1BfNWpfWURhMkd3MnU5Mjl1RnpCOEYtNlliYkpIT3V0Wl8xbVNGbWVyWktjMmQ1X1Q0YTNjY1ZYQnAyOG04QmdhbGYtRDJPclJrX2tsWHZHZWV5elNrZHJNT0RFZkFST1ktbEFmRUwyeUI5aUtrcGFLZW51c19JQldFYVNwZzBqdw?oc=5",
+      "published_at": "Mon, 09 Nov 2026 12:00:00 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Faeth’s phase 2 data power oral combo forward in cancer targeted by ADC heavyweights",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "Faeth’s phase 2 data power oral combo forward in cancer targeted by ADC heavyweights",
+          "zh": "Faeth’s phase 2 data power oral combo forward in cancer targeted by ADC heavyweights",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": null
+}
