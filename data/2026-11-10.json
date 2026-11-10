@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-10",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "a meaningful clinical signal",
+      "zh": "有意义的临床信号",
+      "use": "临床数据解读高频。"
+    },
+    {
+      "en": "regulatory pathway",
+      "zh": "监管路径",
+      "use": "审批与开发策略常见。"
+    }
+  ],
+  "items": [
+    {
+      "source": "Reuters",
+      "category": "Research Frontier",
+      "title_en": "British healthcare worker with Ebola to be evacuated from Congo to UK, document shows",
+      "title_zh": "今日前沿：British healthcare worker with Ebola to be evacuated from Congo to UK, document shows",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcWlPc0VXTnppeWJBWUNQLUY3d0NoWXdJVjJwd0djQ1doZE5qOGFKNWdSVUFHTTdsR2ZkbC1hY2hyLS1ZZnZETlg2M0J3d3lPeDRocGJRLTgwTXdaTHpoR2VrcjZqYkFjLVZmU3BGNmhKZjNnLTlTWjVRU0xlNFdrZWJjRUYzR1pjQTNOVEdrSGRuNDU2RGRpNjc1U0JDNExjTE1hZFFwQUMxM0hJSWg3Z09ZYnZXV1BDeGdaVnE4TENDZnpqdFRLQnQ0QzVTRW50SFB0blRwWXVNTXF1ZkE?oc=5",
+      "published_at": "Wed, 04 Nov 2026 17:20:03 GMT",
+      "brief_points": [
+        {
+          "en": "The update highlights a research or translational finding.",
+          "zh": "这条新闻突出了一项基础或转化研究发现。"
+        },
+        {
+          "en": "The key issue is whether the mechanism can lead to a target, biomarker or patient-selection strategy.",
+          "zh": "关键问题是该机制能否进一步形成靶点、biomarker 或患者选择策略。"
+        },
+        {
+          "en": "Translation into clinical value will require additional validation.",
+          "zh": "要真正形成临床价值，还需要更多验证。"
+        }
+      ],
+      "summary_en": "Today's update centers on: British healthcare worker with Ebola to be evacuated from Congo to UK, document shows",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会继续追问：这项研究能否形成靶点、biomarker 或患者分层工具，以及从机制发现到临床验证之间还差哪些关键步骤。",
+      "key_sentences": [
+        {
+          "en": "British healthcare worker with Ebola to be evacuated from Congo to UK, document shows",
+          "zh": "British healthcare worker with Ebola to be evacuated from Congo to UK, document shows",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "category": "Regulatory / Approval",
+      "title_en": "FDA warns GLP-1 drugs carry potential risk of rare eye condition",
+      "title_zh": "今日前沿：FDA warns GLP-1 drugs carry potential risk of rare eye condition",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejlibFhNODd0NUZ2RDAwY0N6VG9FemJsUW5acG5zVEJfNVNSc1FGQzVTd2FtX0tjZDZKeUt5dGpyM1JRSXZKQWt2YV9MZXhQcXlpUHlGZUtUWmF5RkZhdmtrUlJIVzQ5ZUNTbTJvaVZDSWI1OXZOQ0ROdVNoSDA2d0NOZ1Byakc2STY1YkoyNV9ZZUFvc2dN?oc=5",
+      "published_at": "Tue, 10 Nov 2026 06:26:10 GMT",
+      "brief_points": [
+        {
+          "en": "The story is primarily about a regulatory decision or policy shift.",
+          "zh": "这条新闻主要涉及监管决定或政策变化。"
+        },
+        {
+          "en": "Regulatory changes can alter development timelines and commercial options.",
+          "zh": "监管变化可能改变研发时间线和商业选择。"
+        },
+        {
+          "en": "Watch which companies, trial stages or therapeutic areas are affected first.",
+          "zh": "接下来要看哪些公司、试验阶段或治疗领域最先受到影响。"
+        }
+      ],
+      "summary_en": "Today's update centers on: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会把监管动作放进研发时间线、成本和竞争格局中理解。真正值得关注的是它会改变哪一段流程、哪些公司先受益、是否形成长期趋势。",
+      "key_sentences": [
+        {
+          "en": "FDA warns GLP-1 drugs carry potential risk of rare eye condition",
+          "zh": "FDA warns GLP-1 drugs carry potential risk of rare eye condition",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Clinical / Data",
+      "title_en": "Zura scraps hidradenitis suppurativa program after phase 2 miss, sinking stock",
+      "title_zh": "今日前沿：Zura scraps hidradenitis suppurativa program after phase 2 miss, sinking stock",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDVrb0RrT09CVlF2akx5Zl91RHRScE90Vmg3YS1vOEpVUHU0Vm1XNHZTdkdtR3lvUWxlTjVsc25iYURYdkZKZ3luUW9DdkdobzZjRHE0NjZrTW1JalByWm1LcnBYQzJxZ25xYzZTemRUTTVPdXVqZExDQkJ3MnhIREo0Sm91SDdMNmcxajdnZlg2RHQ1YXFINjVIOW4xeURMQ2cw?oc=5",
+      "published_at": "Mon, 09 Nov 2026 14:21:12 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Zura scraps hidradenitis suppurativa program after phase 2 miss, sinking stock",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "Zura scraps hidradenitis suppurativa program after phase 2 miss, sinking stock",
+          "zh": "Zura scraps hidradenitis suppurativa program after phase 2 miss, sinking stock",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": null
+}
