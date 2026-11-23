@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-23",
+  "daily_brief": "今天只使用未出现在历史记录中的新闻；TED 也只选择未学过的演讲。若没有新的内容，系统会留空，而不会把旧内容伪装成今日内容。",
+  "daily_english": [
+    {
+      "en": "what this development could change next",
+      "zh": "这一进展接下来可能改变什么",
+      "use": "每天都可用于行业分析追问。"
+    },
+    {
+      "en": "a meaningful clinical signal",
+      "zh": "有意义的临床信号",
+      "use": "临床数据解读高频。"
+    },
+    {
+      "en": "regulatory pathway",
+      "zh": "监管路径",
+      "use": "审批与开发策略常见。"
+    }
+  ],
+  "items": [
+    {
+      "source": "STAT",
+      "category": "Clinical / Data",
+      "title_en": "Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+      "title_zh": "今日前沿：Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWx2ZEotd3hGOUJ0LTFRNW9Cb1NVLWNYR0pueVJaZDl2djJqSmo0dHdUTHJJeVZrRVlkU0Q2bi1nX2I0X1BrLU5WY2l0N3k2eTB6VFFHXzVyU1VNMGFSLUpZMDNRWGJVa25hNUdzM1dMc3hmUWZRTW5qTkp1RXNEV29OMnNMNEl3UE85MkpYOGRDTWVBWnV5bEp0bDdjZnp2WWJFRA?oc=5",
+      "published_at": "Mon, 23 Nov 2026 12:00:12 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+          "zh": "Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Regulatory / Approval",
+      "title_en": "Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
+      "title_zh": "今日前沿：Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkl1SWx6c1VnbkJ6NTYxRDkzOHFTMlZJT0tzM1FoeGdYYlFKMG82bGozaE5BRTlQTW5GT3RMWW5nZE02RlJDZnpLRVFseW51WHl0c2N3bkNnR2UtRTdpOGYzU2x4VWE1OEdKOXA2TWVpQzVQbUpTTEJSM001N002RnVRa1FxRldnck5mQktQbmgyZk8wWVJHNi1DNDVnZ2NDUTFCQWVJQnZiZmtKY1l2RzdSekZCQ29aRy1UMk1TalJEWlhwZ2o4?oc=5",
+      "published_at": "Mon, 23 Nov 2026 09:00:00 GMT",
+      "brief_points": [
+        {
+          "en": "The update centers on clinical development or trial data.",
+          "zh": "这条新闻核心涉及临床开发或试验数据。"
+        },
+        {
+          "en": "The key questions are endpoint quality, patient selection and the next readout.",
+          "zh": "关键问题是终点质量、患者选择以及下一次数据公布。"
+        },
+        {
+          "en": "What matters next is whether the signal can be reproduced or translated into development value.",
+          "zh": "下一步要看该信号能否被重复验证，并真正转化为研发价值。"
+        }
+      ],
+      "summary_en": "Today's update centers on: Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
+      "summary_zh": "先理解新闻事实，再从研发、监管、商业与竞争格局判断影响。",
+      "expert_analysis": "专家会重点看试验设计、终点、患者分层、时间线与后续数据，而不是只判断“成功或失败”。对行业学习者来说，要把临床证据与资产价值联系起来。",
+      "key_sentences": [
+        {
+          "en": "Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
+          "zh": "Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
+          "note": "来自当天真实新闻标题，可直接跟读。"
+        },
+        {
+          "en": "The key question is what this development could change next.",
+          "zh": "关键问题是，这一进展接下来可能改变什么。",
+          "note": "行业分析通用句型。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "clinical development",
+          "zh": "临床开发",
+          "note": "drug development 高频表达"
+        },
+        {
+          "word": "regulatory strategy",
+          "zh": "监管策略",
+          "note": "注册与战略岗位常见"
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "clinical readout"
+        },
+        {
+          "word": "asset value",
+          "zh": "资产价值",
+          "note": "BD / 投资语境"
+        },
+        {
+          "word": "translational potential",
+          "zh": "转化潜力",
+          "note": "基础研究到临床"
+        }
+      ]
+    }
+  ],
+  "ted": null
+}
